@@ -1,5 +1,8 @@
 # UCOE Discovery Pipeline
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Open Science](https://img.shields.io/badge/Open%20Science-✓-green.svg)](https://github.com/0stetti/ucoe-pipeline)
+
 A two-phase computational pipeline for *de novo* identification of **Ubiquitous Chromatin Opening Elements (UCOEs)** in the human genome (GRCh38/hg38).
 
 > Elton Roger Ostetti — Universidade de São Paulo (USP)
