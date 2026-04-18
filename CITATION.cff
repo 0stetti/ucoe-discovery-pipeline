@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "UCOE Discovery Pipeline"
+abstract: >
+  A two-phase computational pipeline for de novo identification of
+  Ubiquitous Chromatin Opening Elements (UCOEs) in the human genome (GRCh38/hg38).
+  Phase I applies five sequential epigenomic filters; Phase II ranks candidates
+  by multivariate similarity to known UCOEs using Mahalanobis distance, cosine
+  similarity, and percentile scoring.
+authors:
+  - family-names: Ostetti
+    given-names: Elton Roger
+    email: eltonrogerostetti@gmail.com
+    affiliation: "Universidade de São Paulo (USP)"
+    orcid: "https://orcid.org/0000-0002-3448-2373"
+repository-code: "https://github.com/0stetti/ucoe-pipeline"
+license: MIT
+version: "1.0.0"
+date-released: "2026-04-17"
+keywords:
+  - UCOEs
+  - epigenomics
+  - chromatin
+  - bioinformatics
+  - gene regulation
+  - open chromatin
+  - ENCODE
+  - human genome

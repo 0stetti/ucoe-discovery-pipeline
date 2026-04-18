@@ -1,0 +1,36 @@
+======================================================================
+UCOE DISCOVERY PIPELINE — SUMMARY REPORT
+======================================================================
+
+PHASE I — FILTER SUMMARY
+----------------------------------------
+  Loaded from file: 599 candidates
+
+PHASE II — SCORING SUMMARY
+----------------------------------------
+  Total scored candidates: 599
+  Composite score range: 0.2485 – 0.7869
+  Median composite score: 0.3978
+
+TOP 20 CANDIDATES
+----------------------------------------
+  # 1: chr9:32550561-32552586 (SMIM27/TOPORS) — score=0.7869
+  # 2: chr5:154857448-154859252 (CNOT8/FAXDC2) — score=0.7781
+  # 3: chr2:241314884-241317061 (SEPTIN2/HDLBP) — score=0.7739
+  # 4: chr2:219176224-219178289 (RETREG2/CNPPD1) — score=0.7709
+  # 5: chr12:106301928-106304279 (TCP11L2/CKAP4) — score=0.7599
+  # 6: chr8:90000913-90003228 (DECR1/NBN) — score=0.7475
+  # 7: chr9:93451058-93453581 (FAM120A/FAM120AOS) — score=0.7462
+  # 8: chr1:19484402-19486150 (MICOS10/CAPZB) — score=0.7437
+  # 9: chr14:31025105-31026850 (AP4S1/STRN3) — score=0.7430
+  #10: chr10:68331173-68333049 (HNRNPH3/PBLD) — score=0.7359
+  #11: chr1:5990926-5993346 (KCNAB2/NPHP4) — score=0.7349
+  #12: chr14:64503249-64505462 (ZBTB1/ZBTB25) — score=0.7317
+  #13: chr16:10941639-10944906 (DEXI/CLEC16A) — score=0.7268
+  #14: chr19:49639966-49642507 (RRAS/SCAF1) — score=0.7244
+  #15: chr17:63773324-63776351 (DDX42/CCDC47) — score=0.7212
+  #16: chr1:167935782-167937563 (DCAF6/MPC2) — score=0.7204
+  #17: chr5:74639900-74641726 (HEXB/ENC1) — score=0.7203
+  #18: chr2:26243169-26245078 (HADHB/HADHA) — score=0.7148
+  #19: chr12:6765515-6767757 (PTMS/MLF2) — score=0.7147
+  #20: chr9:129834697-129836042 (USP20/C9orf78) — score=0.7110

@@ -1,0 +1,8 @@
+threshold_bp	n_divergent_pairs	A2UCOE_recovered	TBP_PSMB1_recovered	SRF_UCOE_recovered	all_recovered
+1000	632	True	True	True	True
+2000	718	True	True	True	True
+3000	741	True	True	True	True
+4000	762	True	True	True	True
+5000	789	True	True	True	True
+7500	841	True	True	True	True
+10000	910	True	True	True	True

@@ -1,0 +1,83 @@
+# =============================================
+# UCOE Pipeline — .gitignore
+# =============================================
+
+# --- Texts, reports, papers, presentations ---
+articles/
+docs/
+*.docx
+*.pptx
+*.pdf
+ucoe_pipeline_manifesto_*.md
+
+# --- Snapshot archives ---
+*.tar.gz
+ucoe_pipeline_codigo_completo_*.txt
+ucoe_pipeline_registro_*.txt
+
+# --- Large raw genomic data ---
+ucoe_data/annotation/hg38.fa
+ucoe_data/annotation/hg38.fa.gz
+ucoe_data/annotation/hg38.fa.fai
+ucoe_data/annotation/gencode.v44.annotation.gtf.gz
+ucoe_data/annotation/gencode.v44.annotation.gff3.gz
+ucoe_data/annotation/cpgIslandExt.txt.gz
+ucoe_data/annotation/hg19ToHg38.over.chain.gz
+ucoe_data/chipseq/**/*.bigWig
+ucoe_data/chipseq/**/*.bed.gz
+ucoe_data/dnase/**/*.bigWig
+ucoe_data/dnase/**/*.bed.gz
+ucoe_data/methylation/*.bed.gz
+ucoe_data/repliseq/*.bigWig
+ucoe_data/logs/*.log
+
+# --- Figures ---
+output/figures/
+output/paper_figures/
+output/periodicity_figures/
+output/conservation_figures/
+output/kmer_figures/
+output/reranking/*.png
+output/reranking/*.pdf
+output/structural/*.png
+output/structural/*.pdf
+*.png
+*.pdf
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# --- Environments ---
+.env
+.venv/
+venv/
+env/
+.conda/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+*.ipynb
+
+# --- OS / IDE ---
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+~$*.docx
+~$*.xlsx
