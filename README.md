@@ -6,6 +6,7 @@
 A two-phase computational pipeline for *de novo* identification of **Ubiquitous Chromatin Opening Elements (UCOEs)** in the human genome (GRCh38/hg38).
 
 > Elton Roger Ostetti — Universidade de São Paulo (USP)
+> ostetti@usp.br | eltonostetti@gmail.com
 
 ---
 
